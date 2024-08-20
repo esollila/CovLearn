@@ -1,5 +1,5 @@
-# CLOMP
-Code (both MATLAB and python functions) for the Covariance Learning Orthogonal Matching Pursuit (CL-OMP) and demo simulation that reproduces Figure 1 in the EUSIPCO paper [1]. 
+# Covariane Learning 
+Code (both MATLAB and python functions) for the <b>Covariance Learning Orthogonal Matching Pursuit</b> (CL-OMP)  method proposed in [1]. Also demo simulation that reproduces Figure 1 in paper [1] is provided. Comparison in the simulation study is also made to SOMP, and a function to compute it is also provided.  
 
 ## How to cite
 
